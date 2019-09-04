@@ -24,5 +24,3 @@ To run analysis over all sequences in data, go into the `script/` directory and 
 ```bash
 python3 run_all.py
 ``` 
-You can add more 
-
